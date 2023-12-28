@@ -1,2 +1,2 @@
 # Rogue-Maze
-a program that create a random Rogue level.
+A program that create a random Rogue level.
