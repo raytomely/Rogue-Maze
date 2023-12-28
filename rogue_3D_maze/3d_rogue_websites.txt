@@ -1,0 +1,14 @@
+all rogue monsters:
+https://strategywiki.org/wiki/Rogue/Monsters
+
+dungeon keeper 3d model:
+https://www.reddit.com/r/dungeonkeeper/comments/wf2b4a/dungeon_keeper_physical_models_or_stls/
+https://github.com/NBK/NBK/tree/master/data/resources/models
+
+https://opendungeons.github.io/
+https://opengameart.org/content/elf-game-ready-and-animated
+
+https://github.com/dkfans/keeperfx
+https://keeperfx.net/
+
+opengameart.org --> Search "dungeon" or "3d dungeon" or "dungeon crawl"
