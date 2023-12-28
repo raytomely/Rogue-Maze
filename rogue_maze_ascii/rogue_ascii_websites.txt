@@ -1,0 +1,16 @@
+rogue_ascii_websites:
+_________________________________________________________
+rogue character SDL ttf:
+https://forums.roguetemple.com/index.php?topic=5280.0
+original rogue game bitmap font:
+https://www.reddit.com/r/roguelikedev/comments/39xtss/free_readable_square_roguelike_fonts/
+http://dwarffortresswiki.org/Tileset_repository
+http://dwarffortresswiki.org/index.php/Graphics_set_repository
+https://github.com/DFgraphics/Phoebus
+rogue font tileset:
+https://oryxdesignlab.itch.io/classic-rogue
+https://www.reddit.com/r/roguelikedev/comments/436sop/roguelike_tilesets/
+https://www.roguebasin.com/index.php?title=Finding_graphical_tiles
+http://pousse.rapiere.free.fr/tome/
+-------------------------------------------------------------------------------------------
+
